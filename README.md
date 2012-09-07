@@ -1,11 +1,11 @@
 party-platforms
 ===============
 
-The 2012 Republican and Democratic National Party Platforms, cleaned up into nice XML.
+The 2012 Democratic, Libertarian, and Republican National Party Platforms, cleaned up into nice XML. Green Party coming soon.
 
 What apps can you build with this?
 
-Cleanup by Joshua Tauberer <http://razor.occams.info>. 
+Cleanup by Joshua Tauberer <http://razor.occams.info> and Jeff Pratt <http://jeffreypratt.net>.
 
-The original copyright is unkown. My changes are released into the public
+The original copyright is unkown. Our changes are released into the public
 domain.
