@@ -5,7 +5,7 @@ The 2012 Democratic, Republican, Libertarian, Green, Justice, and Socialist Nati
 
 What apps can you build with this?
 
-Cleanup by Joshua Tauberer <http://razor.occams.info> and Jeff Pratt <http://jeffreypratt.net>.
+Cleanup by Joshua Tauberer <http://razor.occams.info>, Jeff Pratt <http://jeffreypratt.net>, and Michael Carbone (https://twitter.com/wandermfc).
 
 The original copyright is unkown. Our changes are released into the public
 domain.
