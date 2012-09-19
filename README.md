@@ -1,7 +1,7 @@
 party-platforms
 ===============
 
-The 2012 Democratic, Libertarian, Republican, Justice, and Socialist National Party Platforms, cleaned up into nice XML. Green Party coming soon.
+The 2012 Democratic, Republican, Libertarian, Green, Justice, and Socialist National Party Platforms, cleaned up into nice XML. Green Party coming soon.
 
 What apps can you build with this?
 
