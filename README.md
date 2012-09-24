@@ -1,7 +1,7 @@
 party-platforms
 ===============
 
-The 2012 Democratic, Republican, Libertarian, Green, Justice, and Socialist National Party Platforms, cleaned up into nice XML and annotated with issue area tags.
+The Democratic, Republican, Libertarian, Green, Justice, and Socialist National Party Platforms for 2012, cleaned up into nice XML and annotated with issue area tags. Also includes past party platforms, including the entire history of Democratic national party platforms.
 
 What apps can you build with this?
 
