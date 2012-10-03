@@ -31,8 +31,6 @@ Each annotation tag has an attribute called "issues", which is a space-separated
 	infrastructure
 	privacy
 	trade
-	china
-	asia
 	jobs
 	immigration
 	labor
@@ -56,5 +54,9 @@ Each annotation tag has an attribute called "issues", which is a space-separated
 	dc
 	civilservice
 	territories
+	education
+	crime
+	defense
+	foreignpolicy
 	
 Annotation is a very subjective sport. I (Josh) have done my best to annotate the most relevant aspects of each platform to the national debate, rather than wrapping every word with a tag.
