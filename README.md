@@ -20,43 +20,18 @@ The platforms are annotated with two tags:
 	
 Each annotation tag has an attribute called "issues", which is a space-separated list of issue-area tags from this list:
 
-	taxes
-	budget
-	federalreserve
-	transparency
-	finance
-	discrimination
-	lowincome
-	elderly
-	infrastructure
-	privacy
-	trade
-	jobs
-	immigration
-	labor
-	gaymarriage
-	voting
-	faith
-	campaignfinance
-	internet
-	guns
-	property
-	abortion
-	health
-	science
-	energy
-	agriculture
-	environment
-	socialsecurity
-	usps
-	tsa
-	nativeamericans
-	dc
-	civilservice
-	territories
-	education
-	crime
-	defense
-	foreignpolicy
+	abortion				agriculture				budget
+	campaignfinance	civilservice				crime
+	dc							defense					discrimination
+	education				elderly						energy
+	environment			faith							federalreserve
+	finance					foreignpolicy				gaymarriage
+	guns						health						immigration
+	infrastructure		internet					jobs
+	labor						lowincome				nativeamericans
+	privacy					property					science
+	socialsecurity		taxes						territories
+	trade					transparency			tsa
+	usps						voting
 	
 Annotation is a very subjective sport. I (Josh) have done my best to annotate the most relevant aspects of each platform to the national debate, rather than wrapping every word with a tag.

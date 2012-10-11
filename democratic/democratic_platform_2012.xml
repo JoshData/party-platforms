@@ -186,9 +186,9 @@ you coverage, or charge women more than men.</p>
       <p>At the same time, the Affordable Care Act is not the end of efforts to improve health care for all
 Americans. Democrats will continue to fight for a strong health care workforce with an emphasis on
 primary care. We remain committed to eliminating disparities in health and will continue to make sure
-families have access to mental health and substance abuse services. We will strengthen Medicaid and
+families have access to mental health and substance abuse services. <proposal issues="lowincome elderly health budget">We will strengthen Medicaid and
 oppose efforts to block grant the program, slash its funding, and leave millions more without health
-insurance. We will continue to invest in our public health infrastructure &#x2013; ensuring that we are able to
+insurance.</proposal> We will continue to invest in our public health infrastructure &#x2013; ensuring that we are able to
 respond to emergencies and support community-based efforts to prevent disease. The Recovery Act
 and the health reform law made historic investments in Community Health Centers, and Democrats will
 continue to support these valuable institutions. We Democrats have increased overall funding to combat
@@ -215,8 +215,8 @@ relief for homeowners still struggling to pay their mortgages and to change prac
 advantage of homeowners. Democrats also understand the importance of helping communities fight
 back against the foreclosures that threaten entire neighborhoods, which is why the President proposed
 to expand the successful neighborhood stabilization efforts in his American Jobs Act.</p>
-      <p>Too many people still owe more on their homes than they are worth. That is why Democrats are fighting
-to give every responsible homeowner the chance to refinance their home, spurring investment in
+      <p>Too many people still owe more on their homes than they are worth. <proposal issues="finance">That is why Democrats are fighting
+to give every responsible homeowner the chance to refinance their home</proposal>, spurring investment in
 communities that have been hit hardest by foreclosure, and taking whatever steps we can to avoid more
 foreclosures. The President remains committed to creating an economy that&#x2019;s built to last, where home
 ownership is an achievable dream for all Americans.</p>
@@ -227,13 +227,13 @@ work and personal responsibility. President Obama is committed to preserving tha
 future generations.</p>
       <p>During their working years, Americans contribute to Social Security in exchange for a promise that they
 will receive an income in retirement. Unlike those in the other party, we will find a solution to protect
-Social Security for future generations. We will block Republican efforts to subject Americans&#x2019; guaranteed
+Social Security for future generations. <proposal issues="socialsecurity">We will block Republican efforts to subject Americans&#x2019; guaranteed
 retirement income to the whims of the stock market through privatization. We reject approaches that
-insist that cutting benefits is the only answer. President Obama will also make it easier for Americans to
+insist that cutting benefits is the only answer.</proposal> President Obama will also make it easier for Americans to
 save on their own for retirement and prepare for unforeseen expenses by participating in retirement
 accounts at work.</p>
-      <p>The Republican budget plan would end Medicare as we know it. Democrats adamantly oppose any
-efforts to privatize or voucherize Medicare; unlike our opponents we will not ask seniors to pay
+      <p>The Republican budget plan would end Medicare as we know it. <proposal issues="health">Democrats adamantly oppose any
+efforts to privatize or voucherize Medicare</proposal>; unlike our opponents we will not ask seniors to pay
 thousands of dollars more every year while they watch the value of their Medicare benefits evaporate.</p>
       <p>Democrats believe that Medicare is a sacred compact with our seniors. Nearly 50 million older
 Americans and Americans with disabilities rely on Medicare each year, and the new health care law
@@ -275,26 +275,26 @@ school districts save more than 400,000 educator jobs.</p>
       <p>We Democrats honor our nation&#x2019;s teachers, who do a heroic job for their students every day. If we want
 high-quality education for all our kids, we must listen to the people who are on the front lines. The
 President has laid out a plan to prevent more teacher layoffs while attracting and rewarding great
-teachers. This includes raising standards for the programs that prepare our teachers, recognizing and
-rewarding good teaching, and retaining good teachers. We also believe in carefully crafted evaluation
+teachers. <proposal issues="education">This includes raising standards for the programs that prepare our teachers, recognizing and
+rewarding good teaching, and retaining good teachers.</proposal> We also believe in carefully crafted evaluation
 systems that give struggling teachers a chance to succeed and protect due process if another teacher
 has to be put in the classroom. We also recognize there is no substitute for a parent&#x2019;s involvement in
 their child&#x2019;s education.</p>
       <p>To help keep college within reach for every student,
 Democrats took on banks to reform our student loan
-program, saving more than $60 billion by removing the
+program, saving more than $60 billion by <proposal issues="education">removing the
 banks acting as middlemen so we can better and more
-directly invest in students. To make college affordable for
+directly invest in students</proposal>. To make college affordable for
 students of all backgrounds and confront the loan burden
 our students shoulder, we doubled our investment in Pell
 Grant scholarships and created the American Opportunity
 Tax Credit worth up to $10,000 over four years of college,
-and we&#x2019;re creating avenues for students to manage their
+and <proposal issues="education">we&#x2019;re creating avenues for students to manage their
 federal student loans so that their payments can be only 10
-percent of what they make each month. President Obama
-has pledged to encourage colleges to keep their costs
+percent of what they make each month</proposal>. President Obama
+has pledged to <proposal issues="education">encourage colleges to keep their costs
 down by reducing federal aid for those that do not,
-investing in colleges that keep tuition affordable and
+investing in colleges that keep tuition affordable</proposal> and
 provide good value, doubling the number of work-study
 jobs available to students, and continuing to ensure that students have access to federal loans with
 reasonable interest rates. We invested more than $2.5 billion in savings from reforming our student loan
@@ -310,12 +310,12 @@ good jobs waiting to be filled, and to support business-labor apprenticeship pro
 and opportunity to thousands of Americans. The President also proposed to double key investments in
 science to educate the next generation of scientists and engineers, encourage private sector innovation,
 and prepare at least 100,000 math and science teachers over the next decade. And to make this country
-a destination for global talent and ingenuity, we won&#x2019;t deport deserving young people who are
+a destination for global talent and ingenuity, <proposal issues="education immigration">we won&#x2019;t deport deserving young people who are
 Americans in every way but on paper, and we
 will work to make it possible for foreign students
 earning advanced degrees in science,
 technology, engineering, and mathematics to
-stay and help create jobs here at home.</p>
+stay</proposal> and help create jobs here at home.</p>
       <p>Mitt Romney has a radically different vision. He
 says we need fewer teachers, cops, and
 firefighters &#x2013; good middle class jobs &#x2013; even after
@@ -351,13 +351,13 @@ make less than $250,000 a year, and we will not raise taxes on them.</p>
       <p>In order to reduce the deficit while still making the investments we need in education, research,
 infrastructure, and clean energy, the President has asked for the wealthiest taxpayers to pay their fair
 share. We have to cut what we don&#x2019;t need in order to make room for the things we do need to grow our
-economy. We support allowing the Bush tax cuts for the wealthiest to expire and closing loopholes and
-deductions for the largest corporations and the highest-earning taxpayers. We are committed to
+economy. <proposal issues="taxes">We support allowing the Bush tax cuts for the wealthiest to expire and closing loopholes and
+deductions for the largest corporations and the highest-earning taxpayers.</proposal> We are committed to
 reforming our tax code so that it is fairer and simpler, creating a tax code that lives up to the Buffett
 Rule so no millionaire pays a smaller share of his or her income in taxes than middle class families do.
-We are also committed to reforming the corporate tax code to lower tax rates for companies in the
+<proposal issues="taxes">We are also committed to reforming the corporate tax code to lower tax rates for companies in the
 United States, with additional relief for those locating manufacturing and research and development on
-our shores, while closing loopholes and reducing incentives for corporations to shift jobs overseas.</p>
+our shores</proposal>, while closing loopholes and reducing incentives for corporations to shift jobs overseas.</p>
       <p>The Republican Party has a different vision&#x2014;instead of asking everyone to do their fair share and making
 investments we need for an economy built to last, they would slash taxes for corporations and the
 wealthiest Americans, let Wall Street once again write its own rules, and balance the budget on the
@@ -382,28 +382,28 @@ natural resources. That means an all-of-the-above approach to developing America
 resources, including wind, solar, biofuels, geothermal, hydropower, nuclear, oil, clean coal, and natural
 gas. President Obama has encouraged innovation to reach his goal of generating 80 percent of our
 electricity from clean energy sources by 2035. Democrats support making America the world&#x2019;s leader in
-building a clean energy economy by extending clean energy incentives that support American
-businesses and American jobs in communities across the country. It&#x2019;s not enough to invent clean energy
+building a clean energy economy by <proposal issues="taxes energy">extending clean energy incentives that support American
+businesses and American jobs in communities across the country</proposal>. It&#x2019;s not enough to invent clean energy
 technologies here; we want to make them here and sell them around the world. We can further cut our
 reliance on oil with increased energy efficiency in buildings, industry, and homes, and through the
 promotion of advanced vehicles, fuel economy standards, and the greater use of natural gas in
 transportation. Harnessing our natural gas resources needs to be done in a safe and responsible manner,
-which is why the Obama administration has proposed a number of safeguards to protect against water
-contamination and air pollution. We will continue to advocate for the use of this clean fossil fuel, while
-ensuring that public and environmental health and workers&#x2019; safety are protected. We support more
-infrastructure investment to speed the transition to cleaner fuels in the transportation sector. And we are
+which is why the Obama administration has proposed a number of <proposal issues="energy environment">safeguards to protect against water
+contamination and air pollution</proposal>. We will continue to advocate for the use of this clean fossil fuel, while
+ensuring that public and environmental health and workers&#x2019; safety are protected. <proposal issues="energy">We support more
+infrastructure investment to speed the transition to cleaner fuels in the transportation sector.</proposal> <proposal issues="energy">And we are
 expediting the approval process to build out critical oil and gas lines essential to transporting our
-energy for consumers. Building a clean energy future means that new exploration and production needs
+energy for consumers.</proposal> Building a clean energy future means that new exploration and production needs
 to be approached safely and responsibly. Democrats are committed to balancing environmental
-protection with development, and that means preserving sensitive public lands from exploration, like the
-Arctic National Wildlife Refuge, Pacific West Coast, Gulf of Maine, and other irreplaceable national
+protection with development, and that means <proposal issues="energy environment">preserving sensitive public lands from exploration, like the
+Arctic National Wildlife Refuge, Pacific West Coast, Gulf of Maine</proposal>, and other irreplaceable national
 landscapes.</p>
       <p>We are saving consumers money on their energy bills &#x2013; both at home and at the pump &#x2013; but Republican
 energy policy is full of empty rhetoric and bad ideas that would make their Big Oil donors even richer at
 the expense of the middle class. Republicans would keep giving billions of taxpayer dollars a year to
-profitable oil companies and increase costs on consumers. Democrats will fight to cut tax subsidies for
+profitable oil companies and increase costs on consumers. <goal issues="energy">Democrats will fight to cut tax subsidies for
 Big Oil while promoting job growth in the clean energy sector, so we can cut the deficit and increase
-jobs and growth in America.</p>
+jobs and growth in America.</goal></p>
       <h4>Out-Building and Out-Innovating the Rest of the World</h4>
       <p>The American people will make a clear
 choice. They can vote for Republicans who opposed saving the auto industry, who favor a tax code that
@@ -439,9 +439,9 @@ with tax relief for clean energy manufacturing, incentives to create advanced ve
 States, more research, and a network of manufacturing innovation hubs.</p>
       <h4>Insourcing</h4>
       <p>The Democratic Party believes in insourcing so that America can out-build the rest of the
-world again. We want to cut tax breaks for companies that are shipping jobs overseas and for special
+world again. <proposal issues="taxes jobs">We want to cut tax breaks for companies that are shipping jobs overseas and for special
 interests, and instead offer tax breaks to companies that are investing right here in the United States of
-America, betting on American workers who are making American products we sell to the world that are
+America</proposal>, betting on American workers who are making American products we sell to the world that are
 stamped with three proud words: Made in America.</p>
       <p>Our strategy is paying off. After decades of watching American companies take jobs to other countries,
 we&#x2019;re beginning to see entrepreneurs and manufactures make the decision to keep factories and
@@ -456,10 +456,10 @@ corporate tax rate while closing unnecessary loopholes,
 and lowering rates even further for manufacturers who
 create good jobs at home. We will give our businesses
 access to newer roads and airports, and faster railroads
-and Internet access. We will fight for immediate
+and Internet access. <proposal issues="infrastructure">We will fight for immediate
 investments for highways, transit, rail, and aviation and
 for the creation of a national infrastructure bank to help
-modernize our infrastructure, put hundreds of thousands
+modernize our infrastructure</proposal>, put hundreds of thousands
 of construction workers back on the job, and help
 businesses grow.</p>
       <h4>Out-Building the Rest of the World</h4>
@@ -480,24 +480,24 @@ support their sustainable development.</p>
 and research so that the next generation of innovators and high-technology manufacturing companies
 thrive in America. President Obama signed into law changes to help entrepreneurs raise capital and
 create jobs.</p>
-      <p>Democrats are committed to preparing math and science teachers and training workers with skills for
-the future, and doubling funding for key basic research agencies. We support expanding and making
-permanent the Research and Experimentation Tax Credit. President Obama has charted a new mission
-for NASA to lead us to a future that builds on America&#x2019;s legacy of innovation and exploration.
+      <p><proposal issues="science education">Democrats are committed to preparing math and science teachers and training workers with skills for
+the future</proposal>, and <proposal issues="budget science">doubling funding for key basic research agencies</proposal>. <proposal issues="taxes">We support expanding and making
+permanent the Research and Experimentation Tax Credit.</proposal> <proposal issues="science">President Obama has charted a new mission
+for NASA to lead us to a future that builds on America&#x2019;s legacy of innovation and exploration.</proposal>
 Democrats reformed the patent system to speed approval of investors&#x2019; patents and provide alternatives
 to wasteful litigation.</p>
       <p>Democrats know that the United States must preserve our leadership in the Internet economy. We will
 ensure that America has a 21st century digital infrastructure &#x2013; robust wired and wireless broadband
 capability, a smarter electrical grid, and upgraded information technology infrastructure in key sectors
-such as health care and education. President Obama has committed to ensuring that 98 percent of the
-country has access to high-speed wireless broadband Internet access. We are finding innovative ways to
+such as health care and education. <goal issues="internet">President Obama has committed to ensuring that 98 percent of the
+country has access to high-speed wireless broadband Internet access.</goal> We are finding innovative ways to
 free up wireless spectrum and are building a state-of-the-art nationwide, interoperable, public safety
-network. President Obama is strongly committed to protecting an open Internet that fosters investment,
+network. <goal issues="internet">President Obama is strongly committed to protecting an open Internet that fosters investment,
 innovation, creativity, consumer choice, and free speech, unfettered by censorship or undue violations
-of privacy.</p>
-      <p>The administration is vigorously protecting U.S. intellectual property &#x2013; our technology and creativity &#x2013; at
+of privacy.</goal></p>
+      <p>The administration is <proposal issues="crime internet">vigorously protecting U.S. intellectual property &#x2013; our technology and creativity &#x2013; at
 home and abroad through better enforcement and innovative approaches such as voluntary efforts by all
-parties to minimize infringement while supporting the free flow of information. Customs seizures of
+parties to minimize infringement</proposal> while supporting the free flow of information. Customs seizures of
 counterfeit drugs are up 600 percent and seizures of fake consumer safety and critical technology have
 increased nearly 200 percent; the Department of Justice has aggressively prosecuted the illegal
 overseas transfer of trade secrets. As technology advances, we will continue to work with all
@@ -515,8 +515,8 @@ and in supporting America&#x2019;s workers with strong labor laws, the President
 policies designed to undermine collective bargaining rights. The President appointed members of the
 National Labor Relations Board and National Mediation Board who understand the importance of
 standing up for the rights of workers. He placed his bet on the American worker when he rescued the
-auto industry. His administration will continue its fight against the exploitative practice of employers
-fraudulently misclassifying workers as independent contractors or white-collar workers to evade taxes or
+auto industry. His administration will continue its <proposal issues="labor">fight against the exploitative practice of employers
+fraudulently misclassifying workers as independent contractors</proposal> or white-collar workers to evade taxes or
 deny them protections and overtime benefits. As new employment relationships evolve away from the
 traditional employee-employer model, we need to make sure our labor laws are modernized and keep
 pace with changes in our economy.</p>
@@ -524,7 +524,7 @@ pace with changes in our economy.</p>
 American worker, undermining unions, and arguing that everyone should fend for themselves. We
 oppose the attacks on collective bargaining that Republican governors and state legislatures are
 mounting in states around the country.</p>
-      <p>Democrats believe that the right to organize and collectively bargain is a fundamental American value;
+      <p>Democrats believe that <goal issues="labor">the right to organize and collectively bargain is a fundamental American value</goal>;
 every American should have a voice on the job and a chance to negotiate for a fair day&#x2019;s pay after a
 hard day&#x2019;s work. We will continue to fight for the right of all workers to organize and join a union. Unions
 helped build the greatest middle
@@ -535,18 +535,18 @@ leave and pensions, the minimum
 wage and health insurance, and
 Social Security and Medicare &#x2013; the
 cornerstones of middle class
-security. We will fight for labor laws
+security. <proposal issues="labor">We will fight for labor laws
 that provide a fair process for
 workers to choose union
 representation, that facilitate the
 collective bargaining process, and
 that strengthen remedies for
-violations of the law. We will fight for collective bargaining rights for police officers, nurses, firefighters,
+violations of the law.</proposal> We will fight for collective bargaining rights for police officers, nurses, firefighters,
 emergency medical technicians, teachers, and other public sector workers &#x2013; jobs that are a proven path
-to the middle class for millions of Americans. We will continue to vigorously oppose &#x201C;Right to Work&#x201D;
+to the middle class for millions of Americans. <proposal issues="labor">We will continue to vigorously oppose &#x201C;Right to Work&#x201D;
 and &#x201C;paycheck protection&#x201D; efforts, and so-called &#x201C;Save our Secret Ballot&#x201D; measures whenever they are
-proposed.</p>
-      <p>We will raise the minimum wage, and index it to inflation. We believe in an America where people
+proposed.</proposal></p>
+      <p><proposal issues="jobs labor">We will raise the minimum wage, and index it to inflation.</proposal> We believe in an America where people
 looking for work can find good jobs, where hard work pays, and where responsibility is rewarded. Our
 Occupational Safety and Health Administration will continue to adopt and enforce comprehensive safety
 standards. The first bill the President signed was the Lilly Ledbetter Fair Pay Act, we are committed to
@@ -578,7 +578,7 @@ businesses will be able to pool their purchasing power together to get affordabl
 will work to help nurture entrepreneurship.</p>
       <p>President Obama and the Democratic Party are committed to continue cutting red tape for small
 businesses, helping them sell their goods around the world and access the capital they need to grow. This
-includes tax cuts for small businesses that make new investments, hire more workers, or increase wages.</p>
+includes <proposal issues="taxes jobs">tax cuts for small businesses that make new investments, hire more workers, or increase wages</proposal>.</p>
       <h4>Opened Markets All Over the World for American Products</h4>
       <p>President Obama and the Democratic Party
 know that America has the best workers and businesses in the world. If the playing field is level, Americans will
@@ -587,17 +587,17 @@ progress toward the goal of doubling our exports by 2015. We have taken steps to
 American products, while ensuring that other countries play by the same rules. President Obama signed into
 law new trade agreements with South Korea, Colombia, and Panama that will support tens of thousands of
 private-sector jobs, but not before he strengthened these agreements on behalf of American workers and
-businesses. We remain committed to finding more markets for American-made goods &#x2013; including using the
+businesses. <proposal issues="trade foreignpolicy">We remain committed to finding more markets for American-made goods &#x2013; including using the
 Trans-Pacific Partnership between the United States and eight countries in the Asia-Pacific, one of the most
 dynamic regions in the world &#x2013; while ensuring that workers&#x2019; rights and environmental standards are upheld,
-and fighting against unfair trade practices. We expanded and reformed assistance for trade-affected workers,
+and fighting against unfair trade practices.</proposal> We expanded and reformed assistance for trade-affected workers,
 and we demanded renewal of that help alongside new trade agreements.</p>
-      <p>Both publicly and privately, the President has made clear to the Chinese government that it needs to
-take steps to appreciate its currency so that America is competing on a level playing field. This
+      <p>Both publicly and privately, the President has <proposal issues="trade foreignpolicy">made clear to the Chinese government that it needs to
+take steps to appreciate its currency so that America is competing on a level playing field</proposal>. This
 administration has doubled the rate of trade cases brought against China by the last administration, and
-created a new government-wide Interagency Trade Enforcement Center. The President is committed to
+created a new government-wide Interagency Trade Enforcement Center. <proposal issues="trade environment">The President is committed to
 continuing to fight unfair trade practices that disadvantage American producers and workers, including
-illegal subsidies, non-tariff barriers, and abuse of worker rights or environmental standards.</p>
+illegal subsidies, non-tariff barriers, and abuse of worker rights or environmental standards.</proposal></p>
     </chapter>
     <chapter>
       <h2>America Works When Everyone Plays by the Same Rules</h2>
@@ -618,15 +618,15 @@ again.</p>
       <p>The President put in place government reform that has led to the most open, efficient, and accountable
 government in history. We know that transparent and effective government makes economic sense.
 Republicans would continue to allow lobbyists too much sway over lawmakers, leading to gridlock in
-Washington, an outdated regulatory system, and a tax code riddled with loopholes. The President put in
-place unprecedented ethics reforms and we&#x2019;re fighting for campaign finance reform. We know that
+Washington, an outdated regulatory system, and a tax code riddled with loopholes. <goal issues="transparency campaignfinance">The President put in
+place unprecedented ethics reforms and we&#x2019;re fighting for campaign finance reform.</goal> We know that
 millions of Americans are struggling to get by, and their voices shouldn&#x2019;t be drowned out by millions of
 dollars in secret special-interest lobbying and advertising.</p>
       <p>Mitt Romney&#x2019;s opposition to commonsense campaign finance is nothing less than support for corporate
 and special-interest takeovers in our elections.</p>
       <p>We believe America prospers when everyone, from Main Street to Wall Street, does their fair share and
-plays by the same rules. We will not back down from making sure an oil company can&#x2019;t take the same
-reckless actions that led to the kind of oil spill we saw in the Gulf of Mexico two years ago. We will not
+plays by the same rules. <goal issues="finance energy">We will not back down from making sure an oil company can&#x2019;t take the same
+reckless actions that led to the kind of oil spill we saw in the Gulf of Mexico two years ago.</goal> We will not
 back down from protecting our kids from toxic mercury pollution, or making sure that our food is safe
 and our water is clean. We will not back down from ensuring that everyone has a seat at the American
 table and the opportunity to grab the first rung on the ladder to the middle class.</p>
@@ -646,9 +646,9 @@ and ending taxpayer-funded bank bailouts and the era of &#x201C;too big to fail.
 place new rules of the road that refocus the financial sector on getting capital to entrepreneurs and
 small and mid-sized businesses who create jobs and financing to millions of families who want to buy a
 home or send their kids to college.</p>
-      <p>We&#x2019;ve created a single consumer watchdog agency whose sole job is looking out for working families by
+      <p><proposal issues="finance">We&#x2019;ve created a single consumer watchdog agency whose sole job is looking out for working families by
 protecting them from deceptive and unfair lending practices of mortgage brokers, payday lenders, debt
-collectors, and other financial institutions. Democrats are not only fighting to protect consumers from
+collectors, and other financial institutions.</proposal> Democrats are not only fighting to protect consumers from
 practices that can hurt their pocketbooks and add to their debt, but also working to put an end to
 practices that helped cause the mortgage crisis.</p>
       <p>Mitt Romney and his allies in Congress believe that the best way to grow the economy is from the top
@@ -658,10 +658,10 @@ its own rules again.</p>
       <h3>21st Century Government: Transparent and Accountable</h3>
       <p>President Obama and the Democrats are committed to rethinking, reforming, and remaking our
 government so that it can meet the challenges of our time. We reject the idea that we need to ask
-people to choose between their jobs and their safety. We reject the argument that says for the economy
+people to choose between their jobs and their safety. <goal issues="finance health">We reject the argument that says for the economy
 to grow, we have to roll back protections that ban hidden fees by credit card companies, or rules that
 keep our kids from being exposed to mercury, or laws that prevent the health insurance industry from
-shortchanging patients. Rules should be simpler and more flexible, and regulations should be based on
+shortchanging patients.</goal> Rules should be simpler and more flexible, and regulations should be based on
 sound science and secure Americans&#x2019; freedom of choice. In our platform hearing we heard about the
 importance of a safety net that works, public schools that educate, and government that invests in a
 strong economy. A 21st century regulatory system must promote economic growth, innovation, and job
@@ -679,9 +679,9 @@ an effort that will save at least $10 billion over five years, and will eliminat
 annual paperwork burdens. That&#x2019;s why he has approved fewer regulations in the first three years of his
 presidency than his Republican predecessor did in his. At the same time, those regulations have more
 than 25 times the net benefits of the previous administration&#x2019;s regulations.</p>
-      <p>Looking to make our government leaner, smarter, and more consumer-friendly, President Obama has
+      <p>Looking to make our government leaner, smarter, and more consumer-friendly, <proposal issues="budget">President Obama has
 asked Congress to reinstate the authority that past presidents had to reorganize and consolidate
-government agencies. President Obama has also called for an ambitious, transparent, and
+government agencies.</proposal> President Obama has also called for an ambitious, transparent, and
 unprecedented government-wide review of existing federal regulations to eliminate unnecessary rules.
 In response, more than two dozen agencies have released plans to streamline existing requirements.
 Just a small fraction of these initiatives will save billions of dollars in the near future without sacrificing
@@ -692,8 +692,8 @@ U.S. territories to support innovation in exchange for accountability and result
       <p>We are committed to the most open, efficient, and accountable government in history, and we believe
 that government is more accountable when it is transparent. This administration was the first to make
 public the list of visitors to the White House and create a centralized ethics and lobbying database
-available to the public online. Democrats led the fight to enact the STOCK Act to ban congressional
-insider trading.</p>
+available to the public online. <proposal issues="transparency">Democrats led the fight to enact the STOCK Act to ban congressional
+insider trading.</proposal></p>
       <p>President Obama launched the Open Government Initiative to empower the public &#x2013; through greater
 openness and new technologies &#x2013; to influence the decisions that affect their lives. We are committed to
 using government as a platform to spur innovation and collaboration. Forums such as Data.gov release
@@ -706,11 +706,11 @@ open arms. In stark contrast, we believe we must take immediate action to curb t
 lobbyists and special interests on our political institutions.</p>
       <p>President Obama signed an executive order to establish unprecedented ethics rules so that those who
 leave the executive branch may not lobby this administration and officials may not accept gifts from
-lobbyists. We support campaign finance reform, by constitutional amendment if necessary. We support
-legislation to close loopholes and require greater disclosure of campaign spending. President Obama
-and the national Democratic Party do not accept contributions from federal lobbyists this cycle. We
+lobbyists. <proposal issues="campaignfinance">We support campaign finance reform, by constitutional amendment if necessary. We support
+legislation to close loopholes and require greater disclosure of campaign spending.</proposal> President Obama
+and the national Democratic Party do not accept contributions from federal lobbyists this cycle. <proposal issues="campaignfinance">We
 support requiring groups trying to influence elections to reveal their donors so the public will know
-who&#x2019;s funding the political ads it sees. President Obama and the Democrats are fighting to reduce the
+who&#x2019;s funding the political ads it sees.</proposal> President Obama and the Democrats are fighting to reduce the
 influence of money in politics, and holding Congress to higher conflict-of-interest standards.</p>
     </chapter>
     <chapter>
@@ -741,9 +741,9 @@ immigration system that reflects our values and meets America&#x2019;s needs. Bu
 our immigration system is badly broken &#x2013; separating families, undermining honest employers and
 workers, burdening law enforcement, and leaving millions of people working and living in the shadows.</p>
       <p>Democrats know there is broad consensus to repair that system and strengthen our economy, and that
-the country urgently needs comprehensive immigration reform that brings undocumented immigrants
+<proposal issues="immigration">the country urgently needs comprehensive immigration reform that brings undocumented immigrants
 out of the shadows and requires them to get right with the law, learn English, and pay taxes in order to
-get on a path to earn citizenship. We need an immigration reform that creates a system for allocating
+get on a path to earn citizenship.</proposal> We need an immigration reform that creates a system for allocating
 visas that meets our economic needs, keeps families together, and enforces the law. But instead of
 promoting the national interest, Republicans have blocked immigration reform in Congress and used the
 issue as a political wedge.</p>
@@ -763,11 +763,11 @@ immigrant integration. When states sought to interfere with
 federal immigration law by passing local measures
 targeting immigrants, this administration challenged them
 in court.</p>
-      <p>President Obama and the Democrats fought for the
+      <p><proposal issues="immigration">President Obama and the Democrats fought for the
 DREAM Act, legislation ensuring that young people who
 want to contribute fully to our society and serve our
 country are able to become legal residents and ultimately
-citizens. Although this bill has a long history of bipartisan
+citizens.</proposal> Although this bill has a long history of bipartisan
 support, Republicans decided to play politics with it rather
 than do the right thing. So the Obama administration
 provided temporary relief for youth who came to the
@@ -783,9 +783,9 @@ the far right.</p>
       <p>It&#x2019;s time we stop just talking about family values and start pursuing policies that truly value
 families. The President and Democrats have cut taxes for every working American family, and expanded
 the Child Tax Credit and Earned Income Tax Credit. We believe that all parents and caregivers &#x2013;
-regardless of gender &#x2013; need more flexibility and support in the workplace. We support passing the
+regardless of gender &#x2013; need more flexibility and support in the workplace. <proposal issues="health jobs">We support passing the
 Healthy Families Act, broadening the Family and Medical Leave Act, and partnering with states to move
-toward paid leave. We have invested in expanding and reforming Head Start and grants to states to
+toward paid leave.</proposal> We have invested in expanding and reforming Head Start and grants to states to
 raise standards and improve instruction in their early learning programs, and we support expanding the
 Child and Dependent Care Tax Credit. We must protect our most vulnerable children by supporting our
 foster care system, adoption programs for all caring parents, grandparents, and caregivers, and
@@ -839,9 +839,9 @@ disabilities to the middle class, employment opportunities, and the ability to l
 satisfying lives. The administration and the Democratic Party are committed to assisting the
 approximately 50 million people in this country living with disabilities, assuring their full integration
 into society.</p>
-      <p>This administration has committed to hiring 100,000 Americans with disabilities within the federal
+      <p><proposal issues="discriminition">This administration has committed to hiring 100,000 Americans with disabilities within the federal
 government by 2015, and has proposed new rules to create employment opportunities with federal
-contractors. We are committed to expanding access to employment for people with disabilities and
+contractors.</proposal> We are committed to expanding access to employment for people with disabilities and
 removing barriers to work. The Affordable Care Act is opening access to health insurance to Americans
 with disabilities who were previously excluded because of pre-existing conditions, expanding access to
 Medicaid, and helping Medicaid to support home- and community-based services to keep people in
@@ -860,9 +860,9 @@ progress and justice throughout our history. We know that our nation, our commun
 made vastly stronger and richer by faith and the countless acts of justice and mercy it inspires. Faith-based organizations will always be critical allies in meeting the challenges that face our nation and our
 world &#x2013; from domestic and global poverty, to climate change and human trafficking. People of faith and
 religious organizations do amazing work in communities across this country and the world, and we
-believe in lifting up and valuing that good work, and finding ways to support it where possible. We
+believe in lifting up and valuing that good work, and finding ways to support it where possible. <goal issues="faith">We
 believe in constitutionally sound, evidence-based partnerships with faith-based and other non-profit
-organizations to serve those in need and advance our shared interests. There is no conflict between
+organizations to serve those in need and advance our shared interests.</goal> There is no conflict between
 supporting faith-based institutions and respecting our Constitution, and a full commitment to both
 principles is essential for the continued flourishing of both faith and country.</p>
       <h4>Rural Communities and Agriculture</h4>
@@ -879,8 +879,8 @@ level in history. We have made historic investments in renewable fuels and expan
 more competitive. We have expanded broadband access to nearly seven million rural Americans,
 including rural businesses, creating new jobs. We have invested in water and wastewater community
 infrastructure projects, safeguarding the health of 18 million rural residents and creating even more jobs.</p>
-      <p>Democrats will strengthen the American farm safety net by renewing crop disaster relief, maintaining
-strong crop insurance programs, and creating a permanent disaster relief program. We will improve
+      <p><proposal issues="agriculture">Democrats will strengthen the American farm safety net by renewing crop disaster relief, maintaining
+strong crop insurance programs, and creating a permanent disaster relief program.</proposal> We will improve
 access to education and health care, especially for rural veterans, and conserve millions of acres of
 public lands while supporting rural recreation and tourism.</p>
       <p>Our vision for rural America stands in stark contrast to our opponents&#x2019;. Republicans in Congress have
@@ -901,9 +901,9 @@ every 12 American jobs.</p>
 ambassador of food aid to countries across the world. That&#x2019;s why Democrats support a strong farm
 safety net, with increased availability of crop insurance and emergency disaster assistance to help
 farmers and ranchers keep their farms in business after natural disasters and crop loss. Democrats are
-also planning for a strong agricultural future, and President Obama has proposed increasing funding for
+also planning for a strong agricultural future, and President <proposal issues="agriculture">Obama has proposed increasing funding for
 research and development to improve agricultural productivity and continue to pursue global food
-security.</p>
+security.</proposal></p>
       <h4>Tribal Sovereignty</h4>
       <p>American Indian and Alaska Native tribes are sovereign self-governing communities,
 with a unique government-to-government relationship with the United States. President Obama and
@@ -911,10 +911,10 @@ Democrats in Congress, working with tribes, have taken unprecedented steps to re
 conflicts, finally coming to a resolution on litigation &#x2013; some dating back nearly 100 years &#x2013; related to
 management of Indian trust resources, administration of loan programs, and water rights.</p>
       <p>The President worked with Democrats to pass the HEARTH Act to promote greater tribal self-determination and create jobs in Indian Country. The Affordable Care Act permanently reauthorized the
-Indian Health Care Improvement Act to improve care for Native Americans. Democrats enacted the
+Indian Health Care Improvement Act to improve care for Native Americans. <proposal issues="nativeamericans discrimination crime">Democrats enacted the
 Tribal Law and Order Act, support expansion of the Violence Against Women Act to include greater
 protection for women on tribal lands, and oppose versions of the Violence Against Women Act that do
-not include these critical provisions. We will continue to honor our treaty and trust obligations and
+not include these critical provisions.</proposal> We will continue to honor our treaty and trust obligations and
 respect cultural rights, including greater support for American Indian and Alaska Native languages.
 Democrats support maximizing tribal self-governance, including efforts for self-determination and
 sovereignty of Native Hawaiians.</p>
@@ -929,18 +929,18 @@ relationship to the rest of the United States.</p>
       <p>The White House Task Force Report on Puerto Rico has taken important and historic steps
 regarding status. We commit to moving resolution of the status issue forward with the goal of resolving
 it expeditiously. If local efforts in Puerto Rico to resolve the status issue do not provide a clear result in
-the short term, the President should support, and Congress should enact, self-executing legislation that
+the short term, the President should support, and <proposal issues="territories">Congress should enact, self-executing legislation that
 specifies in advance for the people of Puerto Rico a set of clear status options, such as those
-recommended in the White House Task Force Report on Puerto Rico, which the United States is
+recommended in the White House Task Force Report on Puerto Rico</proposal>, which the United States is
 politically committed to fulfilling.</p>
       <p>The economic success of Puerto Rico is intimately linked to a swift resolution of the status question, as
 well as consistent, focused efforts on improving the lives of the people of Puerto Rico. We have made
 great progress for Puerto Rico over the past four years, including a sharp, historic increase in Medicaid
 funding for the people of Puerto Rico and fair and equitable inclusion in the Recovery Act and the
 Affordable Care Act. Going forward, we will continue working toward fair and equitable participation for
-Puerto Rico in federal programs. We support increased efforts by the federal government to improve
+Puerto Rico in federal programs. <proposal issues="territories crime">We support increased efforts by the federal government to improve
 public safety in Puerto Rico and the United States Virgin Islands, with a particular emphasis on efforts to
-combat drug trafficking and crime throughout our Caribbean border. In addition, consistent with the task
+combat drug trafficking and crime throughout our Caribbean border.</proposal> In addition, consistent with the task
 force report, we will continue to work on improving Puerto Rico&#x2019;s economic status by promoting job
 creation, education, health care, clean energy, and economic development on the Island.</p>
       <h4>Guam, American Samoa, U.S. Virgin Islands and the Commonwealth of the Northern Mariana
@@ -955,9 +955,9 @@ economic development and will work towards fair and equitable treatment under fe
       <p>Democrats are proud of our support for arts funding and education. We are
 committed to continuing the policies and programs that have already done so much for our creative arts
 industry and economy. Investment in the arts strengthens our communities and contributes to our
-nation&#x2019;s rich cultural heritage. We will continue to support public funding for the National Endowment
+nation&#x2019;s rich cultural heritage. <proposal issues="budget">We will continue to support public funding for the National Endowment
 for the Arts, for the National Endowment for the Humanities, and for programs providing art and music
-education in primary and secondary schools. The entire nation prospers when we protect and promote
+education in primary and secondary schools.</proposal> The entire nation prospers when we protect and promote
 the unique and original artistic and cultural contributions of the women and men who create and
 preserve our nation&#x2019;s heritage.</p>
       <h3>Protecting Rights and Freedoms</h3>
@@ -996,9 +996,9 @@ protect bi-national families threatened with deportation.</p>
       <p>President Obama &#x2013; the son of a single mother and the father of two daughters &#x2013; understands
 that women aren&#x2019;t a special interest group. They are more than half of this country, and issues that affect
 women also affect families. That is why the first bill he signed into law was the Lilly Ledbetter Fair Pay
-Act, which helps women fight back when they are paid less than men, and why we continue to fight to
+Act, which helps women fight back when they are paid less than men, and why <proposal issues="discrimination">we continue to fight to
 overcome Republican opposition and pass the Paycheck Fairness Act to help stop gender discrimination
-in pay before it starts. And that is why the Justice Department and Equal Employment Opportunity
+in pay before it starts</proposal>. And that is why the Justice Department and Equal Employment Opportunity
 Commission, led by President Obama&#x2019;s appointees, have investigated and prosecuted numerous
 violations of the nation&#x2019;s civil rights laws, and obtained more than $140 million in relief for victims of
 gender discrimination. We Democrats will continue to support efforts to ensure that workers can combat
@@ -1024,10 +1024,10 @@ President Joe Biden originally wrote and championed the
 Violence Against Women Act during his time in the Senate, and
 why we support reauthorizing and strengthening it now.</p>
       <p>The President and the Democratic Party believe that women
-have a right to control their reproductive choices. Democrats
+have a right to control their reproductive choices. <proposal issues="health abortion">Democrats
 support access to affordable family planning services, and
 President Obama and Democrats will continue to stand up to
-Republican efforts to defund Planned Parenthood health centers. The Affordable Care Act ensures that
+Republican efforts to defund Planned Parenthood health centers.</proposal> The Affordable Care Act ensures that
 women have access to contraception in their health insurance plans, and the President has respected
 the principle of religious liberty. Democrats support evidence-based and age-appropriate sex
 education.</p>
@@ -1047,34 +1047,34 @@ freedom, and we oppose laws that place unnecessary restrictions on those seeking
 freedom. Democrats have a proud history of standing up for the right to vote. During the Obama
 administration, the Justice Department has initiated careful, thorough, and independent reviews of
 proposed voting changes, and it has prevented states from implementing voter identification laws that
-would be harmful to minority voters. Democrats know that voter identification laws can
+would be harmful to minority voters. <proposal issues="voting discrimination">Democrats know that voter identification laws can
 disproportionately burden young voters, people of color, low-income families, people with disabilities,
-and the elderly, and we refuse to allow the use of political pretexts to disenfranchise American citizens.</p>
+and the elderly, and we refuse to allow the use of political pretexts to disenfranchise American citizens.</proposal></p>
       <h4>District of Columbia</h4>
       <p>Every citizen of the United States is entitled to equal citizenship rights, including
-the 638,000 residents of the nation&#x2019;s capital who pay federal taxes without representation. The American
+the 638,000 residents of the nation&#x2019;s capital who pay federal taxes without representation. <proposal issues="dc voting">The American
 citizens who live in Washington, D.C., like the citizens of the 50 states, should have full and equal
 congressional rights and the right to have the laws and budget of their local government respected
-without congressional interference.</p>
+without congressional interference.</proposal></p>
       <h4>Freedom to Marry</h4>
       <p>We support the right of all families to have equal respect, responsibilities, and
-protections under the law. We support marriage equality and support the movement to secure equal
-treatment under law for same-sex couples. We also support the freedom of churches and religious
+protections under the law. <proposal issues="gaymarriage">We support marriage equality and support the movement to secure equal
+treatment under law for same-sex couples.</proposal> We also support the freedom of churches and religious
 entities to decide how to administer marriage as a religious sacrament without government interference.</p>
       <p>We oppose discriminatory federal and state constitutional amendments and other attempts to deny
 equal protection of the laws to committed same-sex couples who seek the same respect and
-responsibilities as other married couples. We support the full repeal of the so-called Defense of
-Marriage Act and the passage of the Respect for Marriage Act.</p>
+responsibilities as other married couples. <proposal issues="gaymarriage">We support the full repeal of the so-called Defense of
+Marriage Act and the passage of the Respect for Marriage Act.</proposal></p>
       <h4>Firearms</h4>
       <p>We recognize that the individual right to bear arms is an important part of the American
 tradition, and we will preserve Americans&#x2019; Second Amendment right to own and use firearms. We
 believe that the right to own firearms is subject to reasonable regulation. We understand the terrible
 consequences of gun violence; it serves as a reminder that life is fragile, and our time here is limited and
 precious. We believe in an honest, open national conversation about firearms. We can focus on effective
-enforcement of existing laws, especially strengthening our background check system, and we can work
+enforcement of existing laws, <proposal issues="guns">especially strengthening our background check system, and we can work
 together to enact commonsense improvements &#x2013; like reinstating the
 assault weapons ban and closing the gun show loophole &#x2013; so that
-guns do not fall into the hands of those irresponsible, law-breaking few.</p>
+guns do not fall into the hands of those irresponsible, law-breaking few</proposal>.</p>
       <h3>Ensuring Safety and Quality of Life</h3>
       <h4>Cities and Metro Areas</h4>
       <p>Cities and metro areas are a vital part of
@@ -1103,13 +1103,13 @@ assigning federal workers to work side-by-side with local leaders in struggling 
       <p>President Obama and Democrats in Congress have enacted infrastructure investments that will sustain
 our Highway Trust Fund and provide states, U.S. territories, and communities with two years of funding
 to build needed roads, bridges, and transit systems. We will continue to partner with local communities
-to support their sustainable developments such as passenger rail, bicycle and pedestrian paths, and
-other projects to support livable cities.</p>
+to support their <goal issues="infrastructure">sustainable developments such as passenger rail, bicycle and pedestrian paths, and
+other projects to support livable cities</goal>.</p>
       <h4>Poverty</h4>
       <p>Too many Americans live without hope for a better future or access to good, family-supporting
 jobs. Fifteen percent of our fellow citizens live in poverty, and one in five families struggles with food
 insecurity. Many of these families work but are unable to pay the bills. The economic crisis has hit low-income American families particularly hard, but merely restoring our country to where it was before the
-economic crisis is not enough. We must make ending poverty a national priority.</p>
+economic crisis is not enough. <goal issues="lowincome">We must make ending poverty a national priority.</goal></p>
       <p>When the President took office, we were losing hundreds of thousands of jobs a month. President
 Obama and Democrats took immediate action to get the economy moving again. By expanding the
 Earned Income Tax Credit and the Child Tax Credit, and supporting unemployment insurance benefits
@@ -1139,9 +1139,9 @@ firefighters, and emergency medical technicians. Republicans and Mitt Romney hav
 ridiculed these proposals, but we believe we should support our first responders. We support efforts to
 ensure our courageous police officers and first responders are equipped with the best technology,
 equipment, and innovative strategies to prevent and fight crimes.</p>
-      <p>We will end the dangerous cycle of violence, especially youth violence, by continuing to invest in proven
+      <p><proposal issues="crime">We will end the dangerous cycle of violence, especially youth violence, by continuing to invest in proven
 community-based law enforcement programs such as the Community Oriented Policing Services
-program. We will reduce recidivism in our neighborhoods. We created the Federal Interagency Reentry
+program.</proposal> We will reduce recidivism in our neighborhoods. We created the Federal Interagency Reentry
 Council in 2011, but there&#x2019;s more to be done. We support local prison-to-work programs and other
 initiatives to reduce recidivism, making citizens safer and saving the taxpayers money. We understand
 the disproportionate effects of crime, violence, and incarceration on communities of color and are
@@ -1180,8 +1180,8 @@ leveraging millions in private sector dollars to invest in programs with a prove
 Our nation is experiencing some of the greatest challenges in a generation, but it is also a time of great
 opportunity if we come together as a community.</p>
       <h4>Environment</h4>
-      <p>Democrats are committed to protecting our natural resources while creating jobs,
-preserving habitats, and ensuring that future generations can enjoy our nation&#x2019;s outdoor heritage. From
+      <p><goal issues="environment">Democrats are committed to protecting our natural resources while creating jobs,
+preserving habitats, and ensuring that future generations can enjoy our nation&#x2019;s outdoor heritage.</goal> From
 investing in clean energy to protecting our air, land, and water, Democrats have made protecting the
 environment a top priority. Today we are responsibly developing our natural resources to create clean
 energy jobs here at home while encouraging conservation, reducing energy waste, and protecting the
@@ -1192,25 +1192,25 @@ safeguards for clean air and water and by working to reduce carbon pollution. Po
 oxides, sulfur dioxide, particulate matter, and mercury are a threat to human health, and Democrats will
 continue to stand up to polluters in the interest of environmental and public health.</p>
       <p>We know that global climate change is one of the biggest threats of this generation &#x2013; an economic,
-environmental, and national security catastrophe in the making. We affirm the science of climate change,
+environmental, and national security catastrophe in the making. <goal issues="environment">We affirm the science of climate change,
 commit to significantly reducing the pollution that causes climate change, and know we have to meet
 this challenge by driving smart policies that lead to greater growth in clean energy generation and result
-in a range of economic and social benefits.</p>
+in a range of economic and social benefits.</goal></p>
       <p>President Obama has been a leader on this issue. We have developed historic fuel efficiency standards
 that will limit greenhouse gas emissions from our vehicles for the first time in history, made
 unprecedented investments in clean energy, and proposed the first-ever carbon pollution limits for new
 fossil-fuel-fired power plants. As we move towards lower carbon emissions, we will continue to support
-smart, energy efficient manufacturing. Democrats pledge to continue showing international leadership
+smart, energy efficient manufacturing. <proposal issues="environment trade foreignpolicy energy">Democrats pledge to continue showing international leadership
 on climate change, working toward an agreement to set emission limits in unison with other emerging
-powers. Democrats will continue pursuing efforts to combat climate change at home as well, because
+powers.</proposal> Democrats will continue pursuing efforts to combat climate change at home as well, because
 reducing our emissions domestically &#x2013; through regulation and market solutions &#x2013; is necessary to
 continue being an international leader on this issue. We understand that global climate change may
 disproportionately affect the poor, and we are committed to environmental justice.</p>
       <p>We are restoring treasured landscapes like the Great Lakes, the Florida Everglades, and local wilderness
 areas. We are working with Gulf Coast states to restore the Gulf and hold BP and other responsible
-parties accountable. Democrats will continue to work with local communities to conserve our publicly-owned lands and dramatically expand investments in conserving and restoring forests, grasslands, and
+parties accountable. <proposal issues="environment">Democrats will continue to work with local communities to conserve our publicly-owned lands and dramatically expand investments in conserving and restoring forests, grasslands, and
 wetlands across America for generations to come. We will ensure that our National Parks are protected
-while expanding opportunities for Americans to visit and experience these national treasures. Democrats
+while expanding opportunities for Americans to visit and experience these national treasures.</proposal> Democrats
 will continue working to ensure the integrity of the waters Americans rely on every day for drinking,
 swimming, and fishing, by supporting initiatives that restore our rivers, oceans, coasts, and watersheds.
 We will preserve landscapes and ecosystems and open more lands and waters for hunting, fishing, and
@@ -1309,9 +1309,9 @@ goals. So the President refocused our efforts there in 2009, setting the clear g
 and denying it an ability to reestablish a safe haven in Afghanistan. Because of the deteriorating security
 situation, he sent additional resources to reverse the Taliban&#x2019;s momentum and to give the Afghans the
 time and space to build the capacity of their security forces. We have accomplished that, and now we
-have begun the process of bringing our troops home from Afghanistan, including removing 33,000 by
+have begun the process of <proposal issues="defense foreignpolicy">bringing our troops home from Afghanistan, including removing 33,000 by
 September 2012. And, with the support of our allies, the President has outlined a plan to end the war in
-Afghanistan in 2014.</p>
+Afghanistan in 2014</proposal>.</p>
       <p>Already, the United States and our North Atlantic Treaty Organization allies have begun to transition
 responsibility to Afghan security forces. At the same time, we are keeping up the pressure on the Taliban,
 pursuing the possibility of a political resolution to parts of the conflict, and continuing our capacity-building efforts. Beyond 2014, we will continue to provide counterterrorism and training assistance and to
@@ -1345,11 +1345,11 @@ for future progress, President Obama negotiated and signed the landmark New Stra
 Reduction Treaty with Russia, producing cuts in each side&#x2019;s deployed nuclear stockpiles and launchers
 and allowing us to monitor and verify Russia&#x2019;s arsenal. Yet despite bipartisan consensus among former
 National Security Advisors, Secretaries of Defense, and Secretaries of State that New START makes
-America safer, Mitt Romney strongly objected to the treaty. Moving forward, the President will work with
+America safer, Mitt Romney strongly objected to the treaty. <proposal issues="defense foreignpolicy">Moving forward, the President will work with
 Russia to achieve additional reductions in stockpiles and nuclear delivery vehicles, including tactical and
 non-deployed nuclear weapons. We will also work to ratify the Comprehensive Test Ban Treaty and seek
 a new Fissile Material Cut-off Treaty that prohibits the production of fissile materials intended for use in
-nuclear weapons.</p>
+nuclear weapons.</proposal></p>
       <h4>Preventing Nuclear Proliferation</h4>
       <p>President Obama and the Democratic Party are also committed to
 strengthening the Nuclear Non-Proliferation Treaty as the bedrock of international efforts to prevent the
@@ -1398,11 +1398,11 @@ tools to disrupt this dangerous trade.</p>
 with Russia. The Cold War mentality represented by Mitt Romney&#x2019;s identification of Russia as &#x201C;our
 number one geopolitical foe&#x201D; ignores the very real common interest we share with Russia in reducing
 nuclear stockpiles, stopping additional proliferation by countries such as Iran and North Korea, and
-preventing nuclear materials from falling into the hands of terrorists. The President&#x2019;s &#x201C;reset&#x201D; policy
+preventing nuclear materials from falling into the hands of terrorists. <proposal issues="foreignpolicy">The President&#x2019;s &#x201C;reset&#x201D; policy
 toward Russia has produced significant cooperation in these areas, as well as in Russian support for the
-Northern Distribution Network that supplies our troops in Afghanistan. We support establishing
+Northern Distribution Network that supplies our troops in Afghanistan.</proposal> <proposal issues="trade jobs foreignpolicy">We support establishing
 permanent, normal trade relations with Russia because it would be good for the U.S. economy, for U.S.
-businesses, and for U.S. workers if we do. And securing Russia&#x2019;s accession to the World Trade
+businesses, and for U.S. workers if we do.</proposal> And securing Russia&#x2019;s accession to the World Trade
 Organization is an important step toward encouraging Russia to follow a rules-based system, and to
 protecting the rights of American workers, farmers, ranchers, and firms. At the same time, we are candid
 with the Russians when we disagree. The administration will not put aside our differences but will raise
@@ -1466,9 +1466,9 @@ organizations, government officials, and some state security services. That&#x20
 administration released a comprehensive Strategy to Combat Transnational Organized Crime. We are
 committed to a multidimensional approach that safeguards citizens, breaks the financial strength of
 criminal and terrorist networks, disrupts illicit trafficking networks, fights government corruption,
-strengthens the rule of law, bolsters judicial systems, and improves transparency. We have responded to
+strengthens the rule of law, bolsters judicial systems, and improves transparency. <proposal issues="crime foreignpolicy">We have responded to
 this threat through aggressive targeting of the illicit financial infrastructure supporting cross-border
-criminal activity. And we will continue to coordinate with other nations and build their capacity to
+criminal activity.</proposal> And we will continue to coordinate with other nations and build their capacity to
 combat these threats.</p>
       <h3>Strengthening Alliances, Expanding Partnerships, and Reinvigorating International Institutions</h3>
       <p>The greatest dangers we face &#x2013; terrorism, nuclear proliferation, cyber and biological attacks, climate
@@ -1638,10 +1638,10 @@ expanding trade with that region is critical to creating jobs and opportunities 
       <p>Building on the free trade agreement with South Korea that President Obama signed, we are working
 with our partners in the Asia-Pacific Economic Cooperation Forum to create a seamless regional
 economy, promote green growth, and coordinate regulatory reform. Alongside Australia, Brunei
-Darussalam, Chile, Malaysia, New Zealand, Peru, Singapore, and Vietnam, we are on track to finalize the
+Darussalam, Chile, Malaysia, New Zealand, Peru, Singapore, and Vietnam, <proposal issues="trade jobs foreignpolicy">we are on track to finalize the
 Trans-Pacific Partnership, a historic high-standard agreement that will address new and emerging trade
 issues, lower barriers to the free flow of trade and investment, increase exports, and create more
-American jobs. Exploring opportunities to shape the multilateral trading system to reflect the role and
+American jobs</proposal>. Exploring opportunities to shape the multilateral trading system to reflect the role and
 responsibility of major emerging markets in the global economy is a critical part of the President&#x2019;s trade
 agenda.</p>
       <p>We will work to expand free and fair trade in the Americas as well. We already export more than three
@@ -1819,9 +1819,9 @@ the world&#x2019;s people &#x2013; each of which has outlined concrete, credible
 government so citizens are empowered, problems are solved, and democracy is strengthened.</p>
       <p>The President and Democrats know that a commitment to the rule of law and effective judicial
 institutions are essential to sustainable economic development and must remain a core American value
-in the years to come. That is why the Obama administration has successfully pressed for international
+in the years to come. That is why <proposal issues="foreignpolicy transparency">the Obama administration has successfully pressed for international
 action against government corruption through the G-20 and promoted new initiatives to help countries
-develop stronger judicial institutions. Because the public&#x2019;s rights, freedoms, and access to economic
+develop stronger judicial institutions</proposal>. Because the public&#x2019;s rights, freedoms, and access to economic
 opportunity depend on the rule of law, we will continue to work in partnership with our allies to promote
 this important value around the world.</p>
       <h4>Standing up for Women&#x2019;s Rights Around the Globe</h4>
@@ -1838,9 +1838,9 @@ defense interests. We will continue to promote the full engagement of women in t
 economic spheres. We will work to address underlying socio-economic problems, including women&#x2019;s
 access to health, education, and food security. And we will ensure that women are equal participants in
 reconciliation and development in areas affected by conflict.</p>
-      <p>President Obama and the Democratic Party are committed to supporting family planning around the
+      <p><proposal issues="foreignpolicy health">President Obama and the Democratic Party are committed to supporting family planning around the
 globe to help women care for their families, support their communities, and lead their countries to be
-healthier and more productive. That&#x2019;s why, in his first month in office, President Obama overturned the
+healthier and more productive.</proposal> That&#x2019;s why, in his first month in office, President Obama overturned the
 &#x201C;global gag rule,&#x201D; a ban on federal funds to foreign family planning organizations that provided
 information about, counseling on, or offered abortions. And that is why the administration has
 supported lifesaving family planning health information and services.</p>
@@ -1855,24 +1855,24 @@ provide annual assessments of the strengths and weaknesses of foreign government
 the issue, encouraging all countries to do more and calling out countries that have failed to do enough.</p>
       <p>And the administration has provided technical assistance to improve law enforcement and grants to
 support grassroots prevention efforts around the world targeting sex and labor trafficking, child sex
-tourism, forced child labor, and other abuses. The administration is also committed to taking action at
-home to fight trafficking, including the sex trafficking of young girls.</p>
+tourism, forced child labor, and other abuses. <proposal issues="foreignpolicy crime">The administration is also committed to taking action at
+home to fight trafficking, including the sex trafficking of young girls.</proposal></p>
       <h4>Gay Rights as Human Rights</h4>
       <p>Recognizing that gay rights are human rights, the President and his
 administration have vowed to actively combat efforts by other nations that criminalize homosexual
-conduct or ignore abuse. Under the Obama administration, American diplomats must raise the issue
+conduct or ignore abuse. Under the Obama administration, <proposal issues="foreignpolicy discrimination">American diplomats must raise the issue
 wherever harassment or abuse arises, and they are required to record it in the State Department&#x2019;s annual
 report on human rights. And the State Department is funding a program that finances gay rights
-organizations to combat discrimination, violence, and other abuses.</p>
+organizations to combat discrimination, violence, and other abuses.</proposal></p>
       <h4>Internet Freedom</h4>
       <p>The Obama administration has led the world to recognize and defend Internet
 freedom &#x2013; the freedom of expression, assembly, and association online for people everywhere &#x2013; through
 coalitions of countries and by empowering individuals with innovative technologies. The administration
 has built partnerships to support an Internet that is secure and reliable and that is respectful of U.S.
-intellectual property, free flow of information, and privacy. To preserve the Internet as a platform for
+intellectual property, free flow of information, and privacy. <proposal issues="foreignpolicy internet">To preserve the Internet as a platform for
 commerce, debate, learning, and innovation in the 21st century, we successfully negotiated international
 Internet policymaking principles, support the current multi-stakeholder approach to Internet governance,
-and oppose the extension of intergovernmental controls over the Internet.</p>
+and oppose the extension of intergovernmental controls over the Internet.</proposal></p>
       <p>Through all these actions, America is leading again. By responsibly ending the wars, rebalancing our
 foreign policy, taking concrete steps to address the greatest threats to our country, cooperating with
 allies and partners to tackle common challenges, reinvigorating international institutions, and sustaining
