@@ -12,7 +12,7 @@ The original copyright is unkown. Our changes are released into the public domai
 Annotations
 -----------
 
-The platforms are annotated with two tags:
+The 2012 Democratic and Republican platforms are annotated with two tags:
 
 	<goal>...</goal> is used around abstract policy goals.
 	
